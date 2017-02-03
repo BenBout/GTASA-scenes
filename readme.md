@@ -22,11 +22,11 @@ Additionnal scenes for gta sa. Gift to www.sa-mp.com.
 
  4. Add required references in your main file `#include <streamer>` and `#include <YSI\y_hooks>` (optional).
 
- 5. Add samaps reference in your main file `#include <sa_scenes.inc>`.
+ 5. Add sa_scenes reference in your main file `#include <sa_scenes.inc>`.
 
 ## Enable / Disable scenes
 
- 1. Open samaps_index.inc in your pawno include folder.
+ 1. Open sa_scenesinc in your pawno include folder.
  
  2. Comment / Uncomment `//` include lines you want to enable/desable.
 
