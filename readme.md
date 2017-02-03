@@ -23,6 +23,8 @@ Additionnal scenes for gta sa. Gift to www.sa-mp.com.
  4. Add required references in your main file `#include <streamer>` and `#include <YSI\y_hooks>` (optional).
 
  5. Add sa_scenes reference in your main file `#include <sa_scenes.inc>`.
+ 
+ 6. Compile your procject.
 
 ## Enable / Disable scenes
 
