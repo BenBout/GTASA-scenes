@@ -1,9 +1,8 @@
 [license]: https://tldrlegal.com/l/mit
-[docs]: http://docs.oxidemod.org
 
 # GTASA Additionnal maps [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)][License]
 
-Additionnal maps for gta sa. Gift to www.sa-mp.com.
+Additionnal scenes for gta sa. Gift to www.sa-mp.com.
 
 ## Supported Platforms
  * SA-MP - _Provides support for the [SA-MP](http://www.sa-mp.com/) server_
@@ -15,7 +14,7 @@ Additionnal maps for gta sa. Gift to www.sa-mp.com.
 ## Compiling Source
  * You do not have to compile all the project it if you want just to take some mappings in the repository. But if you want to install easily all of my maps, you can follow my instructions.
 
- 1. Download the [zip](https://github.com/OxideMod/Oxide/archive/master.zip) archive or folk the repository.
+ 1. Download the [zip](https://github.com/BenBout/GTASA-scenes/archive/master.zip) archive or folk the repository.
 
  2. Extract archive in your server directory.
 
@@ -23,7 +22,7 @@ Additionnal maps for gta sa. Gift to www.sa-mp.com.
 
  4. Add required references in your main file `#include <streamer>` and `#include <YSI\y_hooks>` (optional).
 
- 5. Add samaps reference in your main file `#include <samaps_index.inc>`.
+ 5. Add samaps reference in your main file `#include <sa_scenes.inc>`.
 
 ## Enable / Disable scenes
 
@@ -37,16 +36,15 @@ Additionnal maps for gta sa. Gift to www.sa-mp.com.
  
 ## retrieve scenes positions & interiorworld
 
- 1. Open samaps directory.
+ 1. Open sa_scenes directory in your pawno\include.
  
  2. Open scene file you want.
  
- 3. Get pos in. Some scenes are in specific interior world, to get interior number, look at the end of an object line)
+ 3. Get pos in. Some scenes are in specific interior world, to get interior number, look at the end of an object line
 	*exemple : `,-1,13,-1,100.000,100.000);` Interior world is 13. For more details, consult incognito streamer doc.
 	
 ## Special
  If you use jefferson_remastered.inc, please [do not modify] `line 90` it is a tribute to [Michael Brown](https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown) . Thank you.
- *[French tribute song](https://www.youtube.com/watch?v=7fddrUWtIRc)
 
  ## Reporting texture or object bug
 
