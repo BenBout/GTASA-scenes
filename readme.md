@@ -28,11 +28,11 @@ Additionnal scenes for gta sa. Gift to www.sa-mp.com.
 
  1. Open sa_scenesinc in your pawno include folder.
  
- 2. Comment / Uncomment `//` include lines you want to enable/desable.
+ 2. Comment / Uncomment `//` include lines you want to enable/disable.
 
  3. Save File.
  
- 4. Compile project.
+ 4. recompile your gamemode.
  
 ## retrieve scenes positions & interiorworld
 
