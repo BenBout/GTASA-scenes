@@ -45,7 +45,9 @@ Additionnal scenes for gta sa. Gift to www.sa-mp.com.
 	
 ## Special
  If you use jefferson_remastered.inc, please [do not modify] `line 90` it is a tribute to [Michael Brown](https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown) . Thank you.
+ 
+ view_list.txt contains screen links for each map.
 
- ## Reporting texture or object bug
+## Reporting texture or object bug
 
 Contact me on github or sa-mp forum.
