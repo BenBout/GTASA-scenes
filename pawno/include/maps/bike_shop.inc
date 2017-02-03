@@ -1,0 +1,82 @@
+/*
+	NAME : 		Bike Shop
+	DESC : 		Japanese Bikes Shop
+	AUTHOR : 	Gigistone
+*/
+
+
+	gobj = CreateDynamicObject(19450,-101.958,-446.144,2002.706,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-99.159,-450.252,2002.706,0.000,0.000,90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-94.497,-446.144,2000.375,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-99.159,-443.703,2002.706,0.000,0.000,90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-94.497,-446.144,2005.592,0.000,180.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19451,-92.833,-446.420,2002.039,0.000,90.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 15046, "svcunthoose", "csGarageTrolley01psd", 0);
+	gobj = CreateDynamicObject(19451,-91.103,-446.340,2002.706,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 15046, "svcunthoose", "csGarageTrolley01psd", 0);
+	gobj = CreateDynamicObject(2446,-96.179,-447.275,2000.966,0.000,0.000,-90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 1, 6042, "santavenice3", "venblock01", 0);
+	gobj = CreateDynamicObject(2450,-96.181,-448.271,2000.957,0.000,0.000,-90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 10101, "2notherbuildsfe", "sl_vicrfedge", 0);
+	SetDynamicObjectMaterial(gobj, 1, 6042, "santavenice3", "venblock01", 0);
+	gobj = CreateDynamicObject(2450,-96.420,-446.566,2000.957,0.000,0.000,180.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 1, 6042, "santavenice3", "venblock01", 0);
+	gobj = CreateDynamicObject(19450,-100.790,-445.038,2002.706,0.000,0.000,-45.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-101.549,-444.878,2002.706,0.000,0.000,-67.500,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-101.369,-445.538,2002.706,0.000,0.000,-23.500,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19893,-96.248,-446.730,2002.008,0.000,0.000,66.120,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 1, 14789, "ab_sfgymmain", "CBchallenge_256", 0);
+	gobj = CreateDynamicObject(19450,-94.493,-453.786,2002.909,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-94.493,-440.865,2002.909,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19451,-89.761,-445.597,2002.909,0.000,0.000,90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 15046, "svcunthoose", "csGarageTrolley01psd", 0);
+	gobj = CreateDynamicObject(19451,-89.761,-449.056,2002.909,0.000,0.000,90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 15046, "svcunthoose", "csGarageTrolley01psd", 0);
+	gobj = CreateDynamicObject(19451,-92.829,-446.340,2003.928,0.000,90.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 15046, "svcunthoose", "csGarageTrolley01psd", 0);
+	gobj = CreateDynamicObject(19376,-98.923,-446.636,2000.884,0.000,90.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 4568, "skyscrap2_lan2", "sl_marblewall2", 0);
+	gobj = CreateDynamicObject(19452,-99.159,-444.483,2000.376,0.000,0.000,90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 14533, "pleas_dome", "pdome_wall1", 0);
+	gobj = CreateDynamicObject(19453,-99.159,-442.821,2002.040,0.000,90.000,270.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 14533, "pleas_dome", "pdome_wall1", 0);
+	gobj = CreateDynamicObject(19450,-91.091,-444.485,2002.706,0.000,0.000,90.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19450,-95.821,-439.754,2002.706,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 12923, "sw_block05", "sw_woodslats1", 0);
+	gobj = CreateDynamicObject(19451,-90.387,-446.340,2003.573,0.000,105.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 15046, "svcunthoose", "csGarageTrolley01psd", 0);
+	gobj = CreateDynamicObject(19172,-96.855,-450.165,2003.004,0.000,0.000,180.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 5998, "sunstr_lawn", "neon04_LAwN", 0);
+	gobj = CreateDynamicObject(19377,-98.923,-446.636,2004.436,0.000,90.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 8396, "sphinx01", "luxorceiling02_128", 0);
+	gobj = CreateDynamicObject(18075,-95.496,-447.368,2004.364,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 2487, "rc_shop_hanger", "CJ_kite3", 0);
+	SetDynamicObjectMaterial(gobj, 1, 2487, "rc_shop_hanger", "CJ_kite3", 0);
+	gobj = CreateDynamicObject(3858,-94.587,-446.409,2001.861,0.000,0.000,-45.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 2487, "rc_shop_hanger", "CJ_kite3", 0);
+	gobj = CreateDynamicObject(19172,-91.192,-447.404,2002.880,0.000,0.000,270.000,-1,15,-1,50.000,50.000);
+	SetDynamicObjectMaterial(gobj, 0, 5998, "sunstr_lawn", "neon02_LAwN", 0);
+	CreateDynamicObject(1522,-100.451,-450.210,2000.968,0.000,0.000,0.000,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18865,-96.248,-447.752,2002.008,0.000,0.000,112.680,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18976,-98.391,-444.104,2002.238,0.000,0.000,-105.779,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18977,-98.052,-444.086,2002.238,0.000,0.000,-88.799,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18978,-97.692,-444.088,2002.238,0.000,0.000,-109.199,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18979,-97.352,-444.130,2002.238,0.000,0.000,-109.199,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18645,-96.971,-444.132,2002.238,0.000,0.000,-109.199,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(18938,-96.584,-444.093,2002.139,0.000,-90.000,-185.640,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(957,-91.461,-447.434,2003.736,0.000,15.000,0.000,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(957,-91.461,-446.312,2003.736,0.000,15.000,0.000,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(957,-91.461,-448.556,2003.736,0.000,15.000,0.000,-1,15,-1,50.000,50.000);
+	CreateDynamicObject(19382, -94.50127, -447.93924, 2002.67554,  0.00000, 0.00000, 0.00000);
+	CreateVehicle(461, -93.1864, -447.2062, 2002.6265, -9.9000, -1, -1, 100);
