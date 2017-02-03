@@ -24,7 +24,7 @@ Additionnal scenes for gta sa. Gift to www.sa-mp.com.
 
  5. Add sa_scenes reference in your main file `#include <sa_scenes.inc>`.
  
- 6. Compile your procject.
+ 6. Compile your project.
 
 ## Enable / Disable scenes
 
