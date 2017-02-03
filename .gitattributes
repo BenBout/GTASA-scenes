@@ -16,5 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-$ cat .gitattributes
-*.rb linguist-language=Pawn
+*.rb  linguist-language=C
