@@ -1,0 +1,83 @@
+/*
+	NAME : 		Chroma Key (interior)
+	DESC :		Chroma key. Useful to making video, cropping etc.
+	AUTHOR : 	Gigistone
+*/
+
+
+	gobj = CreateDynamicObject(19381,-2510.500,2500.000,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2500.000,2500.000,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2500.000,2509.633,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2500.000,2519.266,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2489.499,2500.000,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2489.499,2509.633,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2489.499,2519.266,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2478.999,2500.000,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2478.999,2509.633,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2478.999,2519.266,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2478.999,2528.899,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2489.499,2528.899,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2500.000,2528.899,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2510.500,2509.633,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2510.500,2528.899,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2510.500,2519.266,5500.000,0.000,90.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2505.708,2509.633,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2505.617,22519.199,5500.000,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2505.708,2519.266,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2505.708,2528.899,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2515.514,2509.633,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2506.298,-2515.514,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2515.514,2519.266,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2515.514,2528.899,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2510.607,2533.636,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2500.801,2533.636,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2491.168,2533.636,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2481.536,2533.636,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2476.645,2528.899,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2476.645,2519.266,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2476.645,2509.633,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2476.645,2500.001,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2515.514,2500.001,5505.200,0.000,0.000,0.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2481.536,2495.124,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2491.168,2495.124,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2500.801,2495.124,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2510.433,2495.124,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
+	gobj = CreateDynamicObject(19381,-2520.066,2495.124,5505.200,0.000,0.000,90.000,-1,99,-1,130.000,130.000);
+	SetDynamicObjectMaterial(gobj, 0, 7650, "vgnusedcar", "lightgreen2_32", 0);
