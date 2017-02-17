@@ -80,6 +80,13 @@ hook OnGameModeInit(){
 #include "sa_scenes\court_hall"
 #include "sa_scenes\court_first_floor"
 #include "sa_scenes\jefferson_remastered"
+#include "sa_scenes\chroma_key"
+#include "sa_scenes\corona_cemetery"
+#include "sa_scenes\ganton_cemetery"
+#include "sa_scenes\idle_bbal"
+#include "sa_scenes\idlewood_cemetery"
+#include "sa_scenes\ls_maps"
+#include "sa_scenes\train"
 	return 1;
 }
 
@@ -96,5 +103,9 @@ hook OnPlayerConnect(playerid){
 #include "sa_scenes\traphouse1-remov"
 #include "sa_scenes\traphouse3-remov"
 #include "sa_scenes\jefferson_remastered-remov"
+#include "sa_scenes\ganton_cemetery-remov"
+#include "sa_scenes\idlewood_cemetery-remov"
+#include "sa_scenes\idle_bbal-remov"
+#include "sa_scenes\corona_cemetery-remov"
 	return 1;
 }
